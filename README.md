@@ -10,5 +10,6 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Wallhaven
 - MacOS wallpapers (https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - Aesthetic Wallpapers repo (https://github.com/D3Ext/aesthetic-wallpapers/tree/main)
+- Distro Wallpapers (https://distrowall.pages.dev/)
 
 Be sure to check these websites out, you will find even more cool wallpapers there!
