@@ -11,5 +11,6 @@ A personal collection of wallpapers. Taken from many sites such as:
 - MacOS wallpapers (https://512pixels.net/projects/default-mac-wallpapers-in-5k/)
 - Aesthetic Wallpapers repo (https://github.com/D3Ext/aesthetic-wallpapers/tree/main)
 - Distro Wallpapers (https://distrowall.pages.dev/)
+- Ubuntu (https://ubuntu.com/blog/unmasking-the-resolute-raccoon)
 
 Be sure to check these websites out, you will find even more cool wallpapers there!
