@@ -14,7 +14,6 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Ubuntu (https://ubuntu.com/blog/unmasking-the-resolute-raccoon)
 - XeroLinux (https://github.com/xerolinux/kde-wallpapers-extra)
 - DuskLinux (https://github.com/dusklinux/images)
-- Aesthetic Wallpapers (https://github.com/D3Ext/aesthetic-wallpapers/tree/main)
 - Curated Wallpapers (https://github.com/ind4skylivey/curated-wallpapers/tree/main)
 
 Be sure to check these websites out, you will find even more cool wallpapers there!
