@@ -15,5 +15,8 @@ A personal collection of wallpapers. Taken from many sites such as:
 - XeroLinux (https://github.com/xerolinux/kde-wallpapers-extra)
 - DuskLinux (https://github.com/dusklinux/images)
 - Curated Wallpapers (https://github.com/ind4skylivey/curated-wallpapers/tree/main)
+- Wallz (https://github.com/fr0st-xyz/wallz)
+- OS Wallpapers (https://github.com/Tcode-Motion/os-wallpapers)
+- Themed wallpapers (https://github.com/yukazakiri/themed-wallpapers)
 
 Be sure to check these websites out, you will find even more cool wallpapers there!
