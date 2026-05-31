@@ -19,5 +19,6 @@ A personal collection of wallpapers. Taken from many sites such as:
 - OS Wallpapers (https://github.com/Tcode-Motion/os-wallpapers)
 - Themed wallpapers (https://github.com/yukazakiri/themed-wallpapers)
 - AlmaLinux (https://www.reddit.com/r/AlmaLinux/comments/1p5z05g/where_can_i_find_this_wallpaper/)
+- Garuda (https://github.com/PlasmaLinux/Garuda-wallpapers)
 
 Be sure to check these websites out, you will find even more cool wallpapers there!
