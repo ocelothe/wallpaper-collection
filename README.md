@@ -22,5 +22,5 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Garuda (https://github.com/PlasmaLinux/Garuda-wallpapers)
 - Zei Dotfiles (https://github.com/Zeibytes/most-racist-rice/tree/main/images)
 - Dharmx's Walls repo (https://github.com/dharmx/walls)
-
+- Catpuccin Mocha Walls repo (https://github.com/orangci/walls-catppuccin-mocha)
 Be sure to check these websites out, you will find even more cool wallpapers there!
