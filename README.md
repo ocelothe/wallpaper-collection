@@ -12,7 +12,7 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Aesthetic Wallpapers repo (https://github.com/D3Ext/aesthetic-wallpapers/tree/main)
 - Distro Wallpapers (https://distrowall.pages.dev/)
 - Ubuntu (https://ubuntu.com/blog/unmasking-the-resolute-raccoon)
-- XeroLinux (https://github.com/xerolinux/kde-wallpapers-extra)
+- XeroLinux (https://github.com/xerolinux/kde-wallpapers-extra) (https://codeberg.org/XeroLinux/kde-wallpapers)
 - DuskLinux (https://github.com/dusklinux/images)
 - Curated Wallpapers (https://github.com/ind4skylivey/curated-wallpapers/tree/main)
 - Wallz (https://github.com/fr0st-xyz/wallz)
