@@ -24,4 +24,5 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Dharmx's Walls repo (https://github.com/dharmx/walls)
 - Catpuccin Mocha Walls repo (https://github.com/orangci/walls-catppuccin-mocha)
 - Nocticat (https://www.deviantart.com/illyaza/art/NoctiCat-1253115492?file=1)
+- ImageGoNord (https://www.reddit.com/r/ImageGoNord/)
 Be sure to check these websites out, you will find even more cool wallpapers there!
