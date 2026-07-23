@@ -25,4 +25,6 @@ A personal collection of wallpapers. Taken from many sites such as:
 - Catpuccin Mocha Walls repo (https://github.com/orangci/walls-catppuccin-mocha)
 - Nocticat (https://www.deviantart.com/illyaza/art/NoctiCat-1253115492?file=1)
 - ImageGoNord (https://www.reddit.com/r/ImageGoNord/)
+- WallpaperFlare (https://www.wallpaperflare.com/)
+- AlphaCoders (https://alphacoders.com/)
 Be sure to check these websites out, you will find even more cool wallpapers there!
