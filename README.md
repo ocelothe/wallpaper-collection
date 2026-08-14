@@ -1,3 +1,4 @@
+# Wallpaper Collection
 A personal collection of wallpapers. Taken from many sites such as:
 - Various Omarchy Themes (https://omarchythemes.com/ and https://omarchy.deepakness.com/themes)
 - Nord wallpapers repos (https://github.com/linuxdotexe/nordic-wallpapers, https://github.com/dxnst/nord-backgrounds, https://github.com/TheSerphh/Nord-Wallpapers)
