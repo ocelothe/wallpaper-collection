@@ -1,4 +1,4 @@
-# wallpaper-collection
+<img width="512" height="288" alt="obraz" src="https://github.com/user-attachments/assets/bf14b3fb-795d-4854-bfc5-991e1cc1de0b" /># wallpaper-collection
 A personal collection of wallpapers. Taken from many sites such as:
 - Various Omarchy Themes (https://omarchythemes.com/ and https://omarchy.deepakness.com/themes)
 - Nord wallpapers repos (https://github.com/linuxdotexe/nordic-wallpapers, https://github.com/dxnst/nord-backgrounds, https://github.com/TheSerphh/Nord-Wallpapers)
@@ -27,4 +27,5 @@ A personal collection of wallpapers. Taken from many sites such as:
 - ImageGoNord (https://www.reddit.com/r/ImageGoNord/)
 - WallpaperFlare (https://www.wallpaperflare.com/)
 - AlphaCoders (https://alphacoders.com/)
+- iOS Wallpapers (https://photos.google.com/share/AF1QipN6ogNXG8QW6f9P0CF1hp55X_GqQ7E-34UBEt_4PoZCc0iGOP6Jh-ioYbfj1JmdEg?key=YjJ5Y3lqcklOSEV3dHZCUWtYR0ZyeWxSNFBOcUR3)
 Be sure to check these websites out, you will find even more cool wallpapers there!
