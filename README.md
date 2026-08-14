@@ -1,4 +1,3 @@
-<img width="512" height="288" alt="obraz" src="https://github.com/user-attachments/assets/bf14b3fb-795d-4854-bfc5-991e1cc1de0b" /># wallpaper-collection
 A personal collection of wallpapers. Taken from many sites such as:
 - Various Omarchy Themes (https://omarchythemes.com/ and https://omarchy.deepakness.com/themes)
 - Nord wallpapers repos (https://github.com/linuxdotexe/nordic-wallpapers, https://github.com/dxnst/nord-backgrounds, https://github.com/TheSerphh/Nord-Wallpapers)
